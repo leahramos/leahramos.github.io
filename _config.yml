@@ -7,13 +7,13 @@ url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
-  name: Your Name
+  name: Leah
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: leahramos@gwmail.gwu.edu 
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: Leah Ramos
   google:
     plus: #username
     analytics:
@@ -25,7 +25,7 @@ owner:
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
-  instagram: #username
+  instagram: leahgiselleramos
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -33,7 +33,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: lramos14
   weibo: #username
   flickr: #username
   codepen: #username
