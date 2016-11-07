@@ -7,12 +7,12 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
+`2014 - 2018`
+__George Washington University__
 Degree Awarded
 
-`1995 - 1997`
-__University Name__
+`2010 - 2014`
+__Mount Saint Joseph Academy__
 Degree Awarded 
 
 ## Awards
@@ -50,13 +50,13 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Digital Intern__, RepEquity 
 
 - Task
 - Task
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Design Intern__, Maga Design 
 
 - Task
 - Task
