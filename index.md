@@ -6,12 +6,15 @@ modified: 2016-11-07
 comments: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a member of the George Washington University’s Class of 2018, earning a Bachelor of Business Administration with a concentration in Marketing. 
+
+I am most interested in the intersection between technology and design, and am eager to learn more about the digital strategy industry through hands on experience. Upon leveraging my experience and skills, I am seeking to build my network of professionals within Marketing, Advertising, and UX/UI Web Design. 
+
  
 ## Current Interests and Projects:
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+* GW Alternative Breaks - Las Marias, PR
+* GW Women in Business - Spring Conference Marketing Committee
+* Capitol Advertising – AFF National Student Advertising Competition
+
 
